@@ -56,7 +56,7 @@
     "41": {
         "urls": [
             {
-                "凌岳支付": "https://vendor.lingyue.win/"
+                "凌岳支付": "https://vendor.lingyue.win"
             }
         ],
         "order_concurrency_num": 1,
