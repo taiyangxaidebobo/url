@@ -53,10 +53,10 @@
         "order_concurrency_num": 1,
         "thread_concurrency_num": 1
     },
-    "24": {
+    "41": {
         "urls": [
             {
-                "博士支付": "https://boshi.nuoya.ltd"
+                "凌岳支付": "https://vendor.lingyue.win/"
             }
         ],
         "order_concurrency_num": 1,
